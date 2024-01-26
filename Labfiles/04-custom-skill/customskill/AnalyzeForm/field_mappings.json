@@ -1,5 +1,14 @@
 {
-    "Vehicle make:": "VehicleMake",
-    "Vehicle year:": "VehicleYear"
+    "Name:": "Name",
+    "Email:": "Email",
+    "Phone number:": "Phone number",
+    "Education:": "Education",
+    "Role:": "Role",
+    "Tools:": "Tools",
+    "Experience:": "Experience",
+    "Certification:": "Certification",
+    "Award:": "Award",
+    "Career objective:": "Career objective",
+    "Skills:": "Skills",
 }
   
